@@ -10,16 +10,3 @@ for(let i=0;i<n;i++)
 }
 console.log("sum first"+" " +n +" "+"natural number = "+sum)
 
-//factorial of integer number
-let fact=1
-let a=prompt("enter the integer: ")
-for(let i=1;i<=n;i++)
-{
-    fact*=(i*1)
-}
-console.log(fact)
-
-
-//while loop
-
-

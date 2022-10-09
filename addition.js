@@ -1,4 +1,4 @@
-console.log("hello world")
+console.log("addition of three number")
 function addthreenumber(a,b,c)
 {
     return a+b+c
